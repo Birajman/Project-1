@@ -1,0 +1,15 @@
+Push notification
+// logical codes
+.......
+// event fire
+......
+.....return
+
+listener
+push => codes
+
+events node default package
+Bidirectional Communication
+
+Socket Programming
+Events
